@@ -1,0 +1,20 @@
+/* DEVELOPER: Alfred Simpson, IS117-003, Fall 2023 */
+
+.navbar-brand img {
+  max-height: 100px;
+  max-width: 100px;
+  margin: 0 auto;
+  padding: 0 5px 0px 0px;
+}
+
+.navbar-brand span {
+  padding: 0 5px 0px;
+}
+
+a:focus {
+  text-shadow: 1px 1px 5px var(--bs-warning-text-emphasis);
+}
+
+.fit-cover {
+  object-fit: cover;
+}

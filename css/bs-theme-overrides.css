@@ -1,0 +1,41 @@
+/* DEVELOPER: Alfred Simpson, IS117-003, Fall 2023 */
+[data-bs-theme='dark'] {
+  --bs-primary: #ffd700;
+  --bs-primary-rgb: 255, 215, 0;
+  --bs-primary-text-emphasis: #ffe766;
+  --bs-primary-bg-subtle: #332b00;
+  --bs-primary-border-subtle: #998100;
+}
+
+[data-bs-theme='dark'] .btn-primary,
+.btn-primary[data-bs-theme='dark'] {
+  --bs-btn-color: #000000;
+  --bs-btn-bg: #ffd700;
+  --bs-btn-border-color: #ffd700;
+  --bs-btn-hover-color: #000000;
+  --bs-btn-hover-bg: #ffdd26;
+  --bs-btn-hover-border-color: #ffdb19;
+  --bs-btn-focus-shadow-rgb: 38, 32, 0;
+  --bs-btn-active-color: #000000;
+  --bs-btn-active-bg: #ffdf33;
+  --bs-btn-active-border-color: #ffdb19;
+  --bs-btn-disabled-color: #000000;
+  --bs-btn-disabled-bg: #ffd700;
+  --bs-btn-disabled-border-color: #ffd700;
+}
+
+[data-bs-theme='dark'] .btn-outline-primary,
+.btn-outline-primary[data-bs-theme='dark'] {
+  --bs-btn-color: #ffd700;
+  --bs-btn-border-color: #ffd700;
+  --bs-btn-focus-shadow-rgb: 255, 215, 0;
+  --bs-btn-hover-color: #000000;
+  --bs-btn-hover-bg: #ffd700;
+  --bs-btn-hover-border-color: #ffd700;
+  --bs-btn-active-color: #000000;
+  --bs-btn-active-bg: #ffd700;
+  --bs-btn-active-border-color: #ffd700;
+  --bs-btn-disabled-color: #ffd700;
+  --bs-btn-disabled-bg: transparent;
+  --bs-btn-disabled-border-color: #ffd700;
+}
