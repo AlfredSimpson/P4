@@ -18,3 +18,7 @@ a:focus {
 .fit-cover {
   object-fit: cover;
 }
+
+.photo-carousel {
+  max-width: 60%;
+}
