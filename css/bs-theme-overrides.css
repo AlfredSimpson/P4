@@ -1,9 +1,10 @@
 /* DEVELOPER: Alfred Simpson, IS117-003, Fall 2023 */
 [data-bs-theme='dark'] {
   --bs-primary: #ffd700;
+  --bs-body-bg: #000000;
   --bs-primary-rgb: 255, 215, 0;
   --bs-primary-text-emphasis: #ffe766;
-  --bs-primary-bg-subtle: #332b00;
+  --bs-primary-bg-subtle: #000000;
   --bs-primary-border-subtle: #998100;
 }
 
