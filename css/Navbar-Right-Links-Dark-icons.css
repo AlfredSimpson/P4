@@ -1,7 +1,7 @@
 /* DEVELOPER: Alfred Simpson, IS117-003, Fall 2023 */
 
 .bs-icon {
-  --bs-icon-size: 1rem;
+  --bs-icon-size: 1.5rem;
   display: flex;
   flex-shrink: 0;
   justify-content: center;
